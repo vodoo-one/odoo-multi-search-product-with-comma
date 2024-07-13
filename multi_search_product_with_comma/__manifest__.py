@@ -25,5 +25,5 @@
     'installable': True,
     'auto_install': False,
     'application': False,
-    'images': ['images/main_screenshot.png'],
+    'images': ['static/description/images/main_screenshot.png'],
 }
