@@ -7,7 +7,7 @@
     'version': '16.0.0',
     'category': 'Inventory/Inventory',
     'description': '''
-        Locksmith  Keyless's Customizations related to Inventory
+        Allow user to search multiple products separated by comma
     ''',
     'author': 'Vodoo, LLC',
     'website': 'https://www.vodoo-one.com/',
