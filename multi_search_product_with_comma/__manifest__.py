@@ -10,7 +10,7 @@
         Allow user to search multiple products separated by comma
     ''',
     'author': 'Vodoo, LLC',
-    'website': 'https://www.vodoo-one.com/',
+    'website': 'https://vodoo-one.odoo.com/',
     'license': 'OPL-1',
     'depends':  ['stock'],
     'data': [
