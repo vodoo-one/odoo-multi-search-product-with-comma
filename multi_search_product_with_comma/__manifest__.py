@@ -10,7 +10,7 @@
         Locksmith  Keyless's Customizations related to Inventory
     ''',
     'author': 'Vodoo, LLC',
-    'website': 'https://vodoo-one.odoo.com/',
+    'website': 'https://www.vodoo-one.odoo.com/',
     'license': 'OPL-1',
     'depends':  ['stock'],
     'data': [
