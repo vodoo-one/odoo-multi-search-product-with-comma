@@ -1,29 +1,27 @@
-# Copyright © 2023 Novobi, LLC
-# See LICENSE file for full copyright and licensing details.
-
-
 {
     'name': 'Multi Search Product With Comma',
-    'version': '16.0.0',
-    'category': 'Inventory/Inventory',
+    'version': '17.0.0.1',
+    'category': 'Sales/Sales',
+    'summary': '''
+        Allow user to search multiple products separated by comma
+    ''',
     'description': '''
         Allow user to search multiple products separated by comma
+        Search products with comma separator
     ''',
     'author': 'Vodoo, LLC',
     'website': 'https://vodoo-one.odoo.com/',
+    'support': 'vodoo.one.co@gmail.com',
     'license': 'OPL-1',
-    'depends':  ['stock'],
+    'depends':  ['sale_management'],
     'data': [
         ################## REPORTS #############################################
         ################## VIEWS #############################################
     ],
-    'assets': {
-        'web.assets_backend': [
-            'ecs_inventory/static/src/**/*.js',
-        ],
-    },
     'installable': True,
     'auto_install': False,
     'application': False,
     'images': ['static/description/images/main_screenshot.png'],
+    "price": "11.00",
+    "currency": "USD",
 }
