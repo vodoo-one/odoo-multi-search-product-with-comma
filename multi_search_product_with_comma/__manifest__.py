@@ -22,6 +22,6 @@
     'auto_install': False,
     'application': False,
     'images': ['static/description/images/main_screenshot.png'],
-    "price": "11.00",
+    "price": "1.00",
     "currency": "USD",
 }
